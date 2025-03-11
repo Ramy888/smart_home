@@ -111,9 +111,7 @@ lib/
 │   ├── doors/
 │   ├── garage/
 │   └── intercom/
-├── services/      # Business logic
-├── utils/         # Helper functions
-└── widgets/       # Reusable components
+
 ```
 
 ## Key Features
